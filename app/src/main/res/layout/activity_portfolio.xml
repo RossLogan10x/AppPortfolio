@@ -19,57 +19,33 @@
         android:textColor="#000000"/>
 
     <Button
+        style="@style/ButtonTheme"
         android:id="@+id/popular_movies_btn"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
-        android:layout_margin="4dp"
-        android:text="@string/popular_movies_button_title"
-        android:textColor="#FFFFFF"
-        android:background="@color/colorPrimary"/>
+        android:text="@string/popular_movies_button_title" />
 
     <Button
+        style="@style/ButtonTheme"
         android:id="@+id/stock_hawk_btn"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
-        android:layout_margin="4dp"
-        android:text="@string/stock_hawk_button_title"
-        android:textColor="#FFFFFF"
-        android:background="@color/colorPrimary"/>
+        android:text="@string/stock_hawk_button_title" />
 
     <Button
+        style="@style/ButtonTheme"
         android:id="@+id/built_it_bigger_btn"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
-        android:layout_margin="4dp"
-        android:text="@string/build_it_bigger_button_title"
-        android:textColor="#FFFFFF"
-        android:background="@color/colorPrimary"/>
+        android:text="@string/build_it_bigger_button_title" />
 
     <Button
+        style="@style/ButtonTheme"
         android:id="@+id/make_your_app_material_btn"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
-        android:layout_margin="4dp"
-        android:text="@string/make_your_app_material_button_title"
-        android:textColor="#FFFFFF"
-        android:background="@color/colorPrimary"/>
+        android:text="@string/make_your_app_material_button_title" />
 
     <Button
+        style="@style/ButtonTheme"
         android:id="@+id/go_ubiquitous_btn"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
-        android:layout_margin="4dp"
-        android:text="@string/go_ubiquitous_button_title"
-        android:textColor="#FFFFFF"
-        android:background="@color/colorPrimary"/>
+        android:text="@string/go_ubiquitous_button_title" />
 
     <Button
+        style="@style/ButtonTheme"
         android:id="@+id/capstone_project_btn"
-        android:layout_width="240dp"
-        android:layout_height="64dp"
-        android:layout_margin="4dp"
-        android:text="@string/captstone_project_button_title"
-        android:textColor="#FFFFFF"
-        android:background="@color/colorPrimary"/>
+        android:text="@string/captstone_project_button_title" />
 
 </LinearLayout>
